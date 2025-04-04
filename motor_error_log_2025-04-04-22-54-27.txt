@@ -1,0 +1,197 @@
+===== Frame [2025-04-05-00-45-49] =====
+Motor[0]
+  Index       : 0.0000
+  Mode       : 1.0000
+  Position   : 0.0000 rad
+  Velocity   : 0.0000 rad/s
+  Torque     : 0.0000 N·m
+  Pos_des    : 0.0000 rad
+  Vel_des    : 0.0000 rad/s
+  Kp         : 500.0000
+  Kd         : 0.0000
+  Feedforward: 0.0000 N·m
+  Error: 1.0000 
+  Temperature: 0.0000 
+  Mos Temperature: 0.0000 
+------------------------------
+Motor[1]
+  Index       : 0.0000
+  Mode       : 0.0000
+  Position   : 0.0000 rad
+  Velocity   : 0.0000 rad/s
+  Torque     : 0.0000 N·m
+  Pos_des    : 0.0000 rad
+  Vel_des    : 0.0000 rad/s
+  Kp         : 500.0000
+  Kd         : 0.0000
+  Feedforward: 0.0000 N·m
+  Error: 0.0000 
+  Temperature: 0.0000 
+  Mos Temperature: 0.0000 
+------------------------------
+Motor[2]
+  Index       : 0.0000
+  Mode       : 0.0000
+  Position   : 0.6113 rad
+  Velocity   : -0.0132 rad/s
+  Torque     : -0.0308 N·m
+  Pos_des    : 0.0000 rad
+  Vel_des    : 0.0000 rad/s
+  Kp         : 500.0000
+  Kd         : 0.0000
+  Feedforward: 0.0000 N·m
+  Error: 0.0000 
+  Temperature: 26.0000 
+  Mos Temperature: 40.0000 
+------------------------------
+Motor[3]
+  Index       : 0.0000
+  Mode       : 0.0000
+  Position   : 0.5922 rad
+  Velocity   : 0.0044 rad/s
+  Torque     : 7.1185 N·m
+  Pos_des    : 0.0000 rad
+  Vel_des    : 0.0000 rad/s
+  Kp         : 500.0000
+  Kd         : 0.0000
+  Feedforward: 0.0000 N·m
+  Error: 0.0000 
+  Temperature: 27.0000 
+  Mos Temperature: 34.0000 
+------------------------------
+Motor[4]
+  Index       : 0.0000
+  Mode       : 0.0000
+  Position   : 0.0000 rad
+  Velocity   : 0.0000 rad/s
+  Torque     : 0.0000 N·m
+  Pos_des    : 0.0000 rad
+  Vel_des    : 0.0000 rad/s
+  Kp         : 0.0000
+  Kd         : 0.0000
+  Feedforward: 0.0000 N·m
+  Error: 0.0000 
+  Temperature: 0.0000 
+  Mos Temperature: 0.0000 
+------------------------------
+Motor[5]
+  Index       : 0.0000
+  Mode       : 0.0000
+  Position   : 0.0000 rad
+  Velocity   : 0.0000 rad/s
+  Torque     : 0.0000 N·m
+  Pos_des    : 0.0000 rad
+  Vel_des    : 0.0000 rad/s
+  Kp         : 0.0000
+  Kd         : 0.0000
+  Feedforward: 0.0000 N·m
+  Error: 0.0000 
+  Temperature: 0.0000 
+  Mos Temperature: 0.0000 
+------------------------------
+Motor[6]
+  Index       : 0.0000
+  Mode       : 0.0000
+  Position   : 0.0000 rad
+  Velocity   : 0.0000 rad/s
+  Torque     : 0.0000 N·m
+  Pos_des    : 0.0000 rad
+  Vel_des    : 0.0000 rad/s
+  Kp         : 500.0000
+  Kd         : 0.0000
+  Feedforward: 0.0000 N·m
+  Error: 0.0000 
+  Temperature: 0.0000 
+  Mos Temperature: 0.0000 
+------------------------------
+Motor[7]
+  Index       : 0.0000
+  Mode       : 0.0000
+  Position   : 0.0000 rad
+  Velocity   : 0.0000 rad/s
+  Torque     : 0.0000 N·m
+  Pos_des    : 0.0000 rad
+  Vel_des    : 0.0000 rad/s
+  Kp         : 500.0000
+  Kd         : 0.0000
+  Feedforward: 0.0000 N·m
+  Error: 0.0000 
+  Temperature: 0.0000 
+  Mos Temperature: 0.0000 
+------------------------------
+Motor[8]
+  Index       : 0.0000
+  Mode       : 0.0000
+  Position   : 0.0000 rad
+  Velocity   : 0.0000 rad/s
+  Torque     : 0.0000 N·m
+  Pos_des    : 0.0000 rad
+  Vel_des    : 0.0000 rad/s
+  Kp         : 500.0000
+  Kd         : 0.0000
+  Feedforward: 0.0000 N·m
+  Error: 0.0000 
+  Temperature: 0.0000 
+  Mos Temperature: 0.0000 
+------------------------------
+Motor[9]
+  Index       : 0.0000
+  Mode       : 0.0000
+  Position   : 0.0000 rad
+  Velocity   : 0.0000 rad/s
+  Torque     : 0.0000 N·m
+  Pos_des    : 0.0000 rad
+  Vel_des    : 0.0000 rad/s
+  Kp         : 500.0000
+  Kd         : 0.0000
+  Feedforward: 0.0000 N·m
+  Error: 0.0000 
+  Temperature: 0.0000 
+  Mos Temperature: 0.0000 
+------------------------------
+Motor[10]
+  Index       : 0.0000
+  Mode       : 0.0000
+  Position   : 0.0000 rad
+  Velocity   : 0.0000 rad/s
+  Torque     : 0.0000 N·m
+  Pos_des    : 0.0000 rad
+  Vel_des    : 0.0000 rad/s
+  Kp         : 0.0000
+  Kd         : 0.0000
+  Feedforward: 0.0000 N·m
+  Error: 0.0000 
+  Temperature: 0.0000 
+  Mos Temperature: 0.0000 
+------------------------------
+Motor[11]
+  Index       : 0.0000
+  Mode       : 0.0000
+  Position   : 0.0000 rad
+  Velocity   : 0.0000 rad/s
+  Torque     : 0.0000 N·m
+  Pos_des    : 0.0000 rad
+  Vel_des    : 0.0000 rad/s
+  Kp         : 0.0000
+  Kd         : 0.0000
+  Feedforward: 0.0000 N·m
+  Error: 0.0000 
+  Temperature: 0.0000 
+  Mos Temperature: 0.0000 
+------------------------------
+Motor[12]
+  Index       : 0.0000
+  Mode       : 0.0000
+  Position   : 0.0000 rad
+  Velocity   : 0.0000 rad/s
+  Torque     : 0.0000 N·m
+  Pos_des    : 0.0000 rad
+  Vel_des    : 0.0000 rad/s
+  Kp         : 500.0000
+  Kd         : 0.0000
+  Feedforward: 0.0000 N·m
+  Error: 0.0000 
+  Temperature: 0.0000 
+  Mos Temperature: 0.0000 
+------------------------------
+
