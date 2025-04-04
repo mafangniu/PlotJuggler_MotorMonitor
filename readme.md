@@ -1,4 +1,5 @@
 # PlotJuggler_MotorMonitor
+![image](https://github.com/user-attachments/assets/3109272d-7af4-4a7a-af17-fdc2d4af447f)
 
 ## 1.功能说明
     用于监测电机数据（13个电机，每个包含速度/位置/电流/温度/Mos温度/错误类型ID等）通过plotjuggler显示
