@@ -1,0 +1,170 @@
+{
+	"BUILD_DIR" : "/home/mcy/project/MotorMonitor/DataStreamSample/build/mafangniu_autogen",
+	"CMAKE_BINARY_DIR" : "/home/mcy/project/MotorMonitor/DataStreamSample/build",
+	"CMAKE_CURRENT_BINARY_DIR" : "/home/mcy/project/MotorMonitor/DataStreamSample/build",
+	"CMAKE_CURRENT_SOURCE_DIR" : "/home/mcy/project/MotorMonitor/DataStreamSample",
+	"CMAKE_EXECUTABLE" : "/opt/cmake-3.23.0/bin/cmake",
+	"CMAKE_LIST_FILES" : 
+	[
+		"/home/mcy/project/MotorMonitor/DataStreamSample/CMakeLists.txt",
+		"/home/mcy/project/MotorMonitor/DataStreamSample/build/CMakeFiles/3.23.0/CMakeSystem.cmake",
+		"/opt/cmake-3.23.0/share/cmake-3.23/Modules/CMakeSystemSpecificInitialize.cmake",
+		"/home/mcy/project/MotorMonitor/DataStreamSample/build/CMakeFiles/3.23.0/CMakeCCompiler.cmake",
+		"/home/mcy/project/MotorMonitor/DataStreamSample/build/CMakeFiles/3.23.0/CMakeCXXCompiler.cmake",
+		"/opt/cmake-3.23.0/share/cmake-3.23/Modules/CMakeSystemSpecificInformation.cmake",
+		"/opt/cmake-3.23.0/share/cmake-3.23/Modules/CMakeGenericSystem.cmake",
+		"/opt/cmake-3.23.0/share/cmake-3.23/Modules/CMakeInitializeConfigs.cmake",
+		"/opt/cmake-3.23.0/share/cmake-3.23/Modules/Platform/Linux.cmake",
+		"/opt/cmake-3.23.0/share/cmake-3.23/Modules/Platform/UnixPaths.cmake",
+		"/opt/cmake-3.23.0/share/cmake-3.23/Modules/CMakeCInformation.cmake",
+		"/opt/cmake-3.23.0/share/cmake-3.23/Modules/CMakeLanguageInformation.cmake",
+		"/opt/cmake-3.23.0/share/cmake-3.23/Modules/Compiler/GNU-C.cmake",
+		"/opt/cmake-3.23.0/share/cmake-3.23/Modules/Compiler/GNU.cmake",
+		"/opt/cmake-3.23.0/share/cmake-3.23/Modules/Compiler/CMakeCommonCompilerMacros.cmake",
+		"/opt/cmake-3.23.0/share/cmake-3.23/Modules/Platform/Linux-GNU-C.cmake",
+		"/opt/cmake-3.23.0/share/cmake-3.23/Modules/Platform/Linux-GNU.cmake",
+		"/opt/cmake-3.23.0/share/cmake-3.23/Modules/CMakeCommonLanguageInclude.cmake",
+		"/opt/cmake-3.23.0/share/cmake-3.23/Modules/CMakeCXXInformation.cmake",
+		"/opt/cmake-3.23.0/share/cmake-3.23/Modules/CMakeLanguageInformation.cmake",
+		"/opt/cmake-3.23.0/share/cmake-3.23/Modules/Compiler/GNU-CXX.cmake",
+		"/opt/cmake-3.23.0/share/cmake-3.23/Modules/Compiler/GNU.cmake",
+		"/opt/cmake-3.23.0/share/cmake-3.23/Modules/Platform/Linux-GNU-CXX.cmake",
+		"/opt/cmake-3.23.0/share/cmake-3.23/Modules/Platform/Linux-GNU.cmake",
+		"/opt/cmake-3.23.0/share/cmake-3.23/Modules/CMakeCommonLanguageInclude.cmake",
+		"/home/mcy/anaconda3/lib/cmake/Qt5/Qt5ConfigVersion.cmake",
+		"/home/mcy/anaconda3/lib/cmake/Qt5/Qt5Config.cmake",
+		"/home/mcy/anaconda3/lib/cmake/Qt5/Qt5ModuleLocation.cmake",
+		"/home/mcy/anaconda3/lib/cmake/Qt5Core/Qt5CoreConfigVersion.cmake",
+		"/home/mcy/anaconda3/lib/cmake/Qt5Core/Qt5CoreConfig.cmake",
+		"/home/mcy/anaconda3/lib/cmake/Qt5Core/Qt5CoreConfigExtras.cmake",
+		"/home/mcy/anaconda3/lib/cmake/Qt5Core/Qt5CoreConfigExtrasMkspecDir.cmake",
+		"/home/mcy/anaconda3/lib/cmake/Qt5Core/Qt5CoreMacros.cmake",
+		"/opt/cmake-3.23.0/share/cmake-3.23/Modules/CMakeParseArguments.cmake",
+		"/home/mcy/anaconda3/lib/cmake/Qt5Widgets/Qt5WidgetsConfigVersion.cmake",
+		"/home/mcy/anaconda3/lib/cmake/Qt5Widgets/Qt5WidgetsConfig.cmake",
+		"/home/mcy/anaconda3/lib/cmake/Qt5Gui/Qt5GuiConfigVersion.cmake",
+		"/home/mcy/anaconda3/lib/cmake/Qt5Gui/Qt5GuiConfig.cmake",
+		"/home/mcy/anaconda3/lib/cmake/Qt5Gui/Qt5Gui_QComposePlatformInputContextPlugin.cmake",
+		"/home/mcy/anaconda3/lib/cmake/Qt5Gui/Qt5Gui_QEglFSEmulatorIntegrationPlugin.cmake",
+		"/home/mcy/anaconda3/lib/cmake/Qt5Gui/Qt5Gui_QEglFSIntegrationPlugin.cmake",
+		"/home/mcy/anaconda3/lib/cmake/Qt5Gui/Qt5Gui_QEglFSX11IntegrationPlugin.cmake",
+		"/home/mcy/anaconda3/lib/cmake/Qt5Gui/Qt5Gui_QEvdevKeyboardPlugin.cmake",
+		"/home/mcy/anaconda3/lib/cmake/Qt5Gui/Qt5Gui_QEvdevMousePlugin.cmake",
+		"/home/mcy/anaconda3/lib/cmake/Qt5Gui/Qt5Gui_QEvdevTabletPlugin.cmake",
+		"/home/mcy/anaconda3/lib/cmake/Qt5Gui/Qt5Gui_QEvdevTouchScreenPlugin.cmake",
+		"/home/mcy/anaconda3/lib/cmake/Qt5Gui/Qt5Gui_QGifPlugin.cmake",
+		"/home/mcy/anaconda3/lib/cmake/Qt5Gui/Qt5Gui_QICNSPlugin.cmake",
+		"/home/mcy/anaconda3/lib/cmake/Qt5Gui/Qt5Gui_QICOPlugin.cmake",
+		"/home/mcy/anaconda3/lib/cmake/Qt5Gui/Qt5Gui_QIbusPlatformInputContextPlugin.cmake",
+		"/home/mcy/anaconda3/lib/cmake/Qt5Gui/Qt5Gui_QJpegPlugin.cmake",
+		"/home/mcy/anaconda3/lib/cmake/Qt5Gui/Qt5Gui_QMinimalEglIntegrationPlugin.cmake",
+		"/home/mcy/anaconda3/lib/cmake/Qt5Gui/Qt5Gui_QMinimalIntegrationPlugin.cmake",
+		"/home/mcy/anaconda3/lib/cmake/Qt5Gui/Qt5Gui_QOffscreenIntegrationPlugin.cmake",
+		"/home/mcy/anaconda3/lib/cmake/Qt5Gui/Qt5Gui_QTgaPlugin.cmake",
+		"/home/mcy/anaconda3/lib/cmake/Qt5Gui/Qt5Gui_QTiffPlugin.cmake",
+		"/home/mcy/anaconda3/lib/cmake/Qt5Gui/Qt5Gui_QTuioTouchPlugin.cmake",
+		"/home/mcy/anaconda3/lib/cmake/Qt5Gui/Qt5Gui_QVirtualKeyboardPlugin.cmake",
+		"/home/mcy/anaconda3/lib/cmake/Qt5Gui/Qt5Gui_QVncIntegrationPlugin.cmake",
+		"/home/mcy/anaconda3/lib/cmake/Qt5Gui/Qt5Gui_QWbmpPlugin.cmake",
+		"/home/mcy/anaconda3/lib/cmake/Qt5Gui/Qt5Gui_QWebpPlugin.cmake",
+		"/home/mcy/anaconda3/lib/cmake/Qt5Gui/Qt5Gui_QXcbEglIntegrationPlugin.cmake",
+		"/home/mcy/anaconda3/lib/cmake/Qt5Gui/Qt5Gui_QXcbGlxIntegrationPlugin.cmake",
+		"/home/mcy/anaconda3/lib/cmake/Qt5Gui/Qt5Gui_QXcbIntegrationPlugin.cmake",
+		"/home/mcy/anaconda3/lib/cmake/Qt5Gui/Qt5GuiConfigExtras.cmake",
+		"/home/mcy/anaconda3/lib/cmake/Qt5Widgets/Qt5WidgetsConfigExtras.cmake",
+		"/home/mcy/anaconda3/lib/cmake/Qt5Widgets/Qt5WidgetsMacros.cmake",
+		"/opt/cmake-3.23.0/share/cmake-3.23/Modules/CMakeParseArguments.cmake",
+		"/home/mcy/anaconda3/lib/cmake/Qt5Xml/Qt5XmlConfigVersion.cmake",
+		"/home/mcy/anaconda3/lib/cmake/Qt5Xml/Qt5XmlConfig.cmake"
+	],
+	"CMAKE_SOURCE_DIR" : "/home/mcy/project/MotorMonitor/DataStreamSample",
+	"DEP_FILE" : "",
+	"DEP_FILE_RULE_NAME" : "",
+	"HEADERS" : 
+	[
+		[
+			"/home/mcy/project/MotorMonitor/DataStreamSample/datastream_sample.h",
+			"Mu",
+			"EWIEGA46WW/moc_datastream_sample.cpp",
+			null
+		],
+		[
+			"/home/mcy/project/MotorMonitor/DataStreamSample/saveErrorLog.h",
+			"Mu",
+			"EWIEGA46WW/moc_saveErrorLog.cpp",
+			null
+		]
+	],
+	"HEADER_EXTENSIONS" : [ "h", "hh", "h++", "hm", "hpp", "hxx", "in", "txx" ],
+	"INCLUDE_DIR" : "/home/mcy/project/MotorMonitor/DataStreamSample/build/mafangniu_autogen/include",
+	"MOC_COMPILATION_FILE" : "/home/mcy/project/MotorMonitor/DataStreamSample/build/mafangniu_autogen/mocs_compilation.cpp",
+	"MOC_DEFINITIONS" : 
+	[
+		"QT_CORE_LIB",
+		"QT_GUI_LIB",
+		"QT_NO_DEBUG",
+		"QT_PLUGIN",
+		"QT_WIDGETS_LIB",
+		"QT_XML_LIB",
+		"mafangniu_EXPORTS"
+	],
+	"MOC_DEPEND_FILTERS" : 
+	[
+		[
+			"Q_PLUGIN_METADATA",
+			"[\n][ \t]*Q_PLUGIN_METADATA[ \t]*\\([^\\)]*FILE[ \t]*\"([^\"]+)\""
+		]
+	],
+	"MOC_INCLUDES" : 
+	[
+		"/home/mcy/anaconda3/include/qt",
+		"/home/mcy/anaconda3/include/qt/QtCore",
+		"/home/mcy/anaconda3/mkspecs/linux-g++",
+		"/home/mcy/anaconda3/include/qt/QtWidgets",
+		"/home/mcy/anaconda3/include/qt/QtGui",
+		"/home/mcy/anaconda3/include/qt/QtXml",
+		"/usr/include/c++/11",
+		"/usr/include/x86_64-linux-gnu/c++/11",
+		"/usr/include/c++/11/backward",
+		"/usr/lib/gcc/x86_64-linux-gnu/11/include",
+		"/usr/local/include",
+		"/usr/include/x86_64-linux-gnu",
+		"/usr/include"
+	],
+	"MOC_MACRO_NAMES" : [ "Q_OBJECT", "Q_GADGET", "Q_NAMESPACE", "Q_NAMESPACE_EXPORT" ],
+	"MOC_OPTIONS" : [],
+	"MOC_PATH_PREFIX" : false,
+	"MOC_PREDEFS_CMD" : 
+	[
+		"/usr/bin/c++",
+		"-dM",
+		"-E",
+		"-c",
+		"/opt/cmake-3.23.0/share/cmake-3.23/Modules/CMakeCXXCompilerABI.cpp"
+	],
+	"MOC_PREDEFS_FILE" : "/home/mcy/project/MotorMonitor/DataStreamSample/build/mafangniu_autogen/moc_predefs.h",
+	"MOC_RELAXED_MODE" : false,
+	"MOC_SKIP" : [],
+	"MULTI_CONFIG" : false,
+	"PARALLEL" : 8,
+	"PARSE_CACHE_FILE" : "/home/mcy/project/MotorMonitor/DataStreamSample/build/CMakeFiles/mafangniu_autogen.dir/ParseCache.txt",
+	"QT_MOC_EXECUTABLE" : "/home/mcy/anaconda3/bin/moc",
+	"QT_UIC_EXECUTABLE" : "",
+	"QT_VERSION_MAJOR" : 5,
+	"QT_VERSION_MINOR" : 9,
+	"SETTINGS_FILE" : "/home/mcy/project/MotorMonitor/DataStreamSample/build/CMakeFiles/mafangniu_autogen.dir/AutogenUsed.txt",
+	"SOURCES" : 
+	[
+		[
+			"/home/mcy/project/MotorMonitor/DataStreamSample/datastream_sample.cpp",
+			"Mu",
+			null
+		],
+		[
+			"/home/mcy/project/MotorMonitor/DataStreamSample/saveErrorLog.cpp",
+			"Mu",
+			null
+		]
+	],
+	"VERBOSITY" : 0
+}

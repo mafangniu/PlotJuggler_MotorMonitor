@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/test.dir/test.cpp.o -o test  -Wl,-rpath,/home/mcy/project/MotorMonitor/DataStreamSample/build:/home/mcy/anaconda3/lib libmafangniu.so /home/mcy/anaconda3/lib/libQt5Widgets.so.5.9.7 /home/mcy/anaconda3/lib/libQt5Xml.so.5.9.7 -lplotjuggler_base -lpthread -lstdc++fs /home/mcy/anaconda3/lib/libQt5Gui.so.5.9.7 /home/mcy/anaconda3/lib/libQt5Core.so.5.9.7 
