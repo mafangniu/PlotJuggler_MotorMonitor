@@ -17,4 +17,5 @@
          plotjuggler界面中app -> appearance -> Plugins -> + 添加 
     （3）运行plotjuggler,Streaming选择 Data Streamer即可,需要可视化哪些量只需要将其拖到右边的窗口就行
 
+![image](https://github.com/user-attachments/assets/20b7142d-c151-4b6f-ab62-a422530d5bf6)
 
