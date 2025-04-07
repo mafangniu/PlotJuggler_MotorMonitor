@@ -330,7 +330,7 @@ void DataStreamSample::receiveUDPData()
       }
       for (size_t i = 0; i < error_data_buffer_.size(); ++i)
       {
-        printMotorDataToFile(error_data_buffer_[i].data(), MOTOR_COUNT, "motor_error_log_" + timestamp_str_first + ".txt", timestamp_str);
+        printMotorDataToFile(error_data_buffer_[i].data(), MOTOR_COUNT, "/tmp/motor_error_log_" + timestamp_str_first + ".txt", timestamp_str);
       }
       qDebug() << "✅ 已导出错误日志到 motor_error_log.txt";
       error_data_buffer_.clear(); // 可选：导出后清空
