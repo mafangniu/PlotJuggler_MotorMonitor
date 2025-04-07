@@ -3,6 +3,16 @@ project(MotorMonitor)
 
 set(CMAKE_CXX_STANDARD 17)
 
+# 如果没有本地安装plotjuggler（源码安装），而是通过sudo apt install ros-${ROS_DISTRO}-plotjuggler安装
+# 需要说明plotjuggler的库文件在/opt/ros/${ROS_DISTRO}/lib/下
+# 其头文件在/opt/ros/${ROS_DISTRO}/include/下
+include_directories(
+    /opt/ros/noetic/include/
+)
+link_directories(
+    /opt/ros/noetic/lib/
+)
+
 # 查找 Qt5 模块
 find_package(Qt5 REQUIRED COMPONENTS Core Widgets Xml)
 
