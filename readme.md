@@ -1,4 +1,5 @@
 # PlotJuggler_MotorMonitor
+![image](https://github.com/user-attachments/assets/3da02d95-f799-4b46-95eb-914a096157b9)
 
 
 ## 1.功能说明
@@ -18,6 +19,8 @@
     （2）将生成的库文件libmafangniu.so放到plotjuggler可以加载的位置
          plotjuggler界面中app -> appearance -> Plugins -> + 添加 
     （3）运行plotjuggler,Streaming选择 Data Streamer即可,需要可视化哪些量只需要将其拖到右边的窗口就行
-    （4）错误日志保存在/tmp下，以motor_error_log_+时间戳命名
+    （4）在电机错误类型显示界面可以选择日志记录方式，分为记录完整运行日志和仅记录出错后日志两种，日志保存在/tmp/plotjuggler_motor_monitor_log下，运行程序后会自动生成该文件夹，日志文件以motor_error/full_log_+时间戳命名
+   
 
+![image](https://github.com/user-attachments/assets/507547fc-31e5-4bf7-9f2e-5a7613501aca)
 
