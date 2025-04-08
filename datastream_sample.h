@@ -44,7 +44,9 @@
 // 显示错误类型界面
 #include <QString>
 #include <QLabel>
-
+// 添加日志记录模式按钮
+#include <QComboBox>  
+#include <QPushButton>
 
 // 电机信息结构体
 typedef struct
@@ -62,15 +64,15 @@ std::vector<double> extract_fields(const InteractiveMotorData &m);
 // Plotjuggler中显示的var名
 // 该量用于注册变量 -> plotjuggler,提取的值和该处字段对应.
 static const std::vector<std::string> field_names = {
-    "Mode",
+    // "Mode",  
     "Pos",
     "Vel",
     "Torque",
-    "Pos_des",
-    "Vel_des",
-    "Kp",
-    "Kd",
-    "FF",
+    // "Pos_des",
+    // "Vel_des",
+    // "Kp",
+    // "Kd",
+    // "FF",
     "Error",
     "Temperatrue",
     "Mos Temperature"};
@@ -116,11 +118,11 @@ public:
   /**
    * @brief DataStreamSample 构造函数
    * @param group_count 数据组数，每组包含多个变量
-   * @param var_count 每组的变量数
+   * @param var_count 每组的变量数,和field_names中变量数一致
    *
    * 该构造函数初始化数据存储数组，并在 PlotJuggler 中注册数据变量名称。
    */
-  DataStreamSample(int group_count = 13, int var_count = 12);
+  DataStreamSample(int group_count = 13, int var_count = 6);
 
   /**
    * @brief 启动数据流
@@ -239,4 +241,7 @@ private:
 private:
   std::vector<std::vector<InteractiveMotorData>> error_data_buffer_;   // 出现错误时缓存电机数据
   bool error_triggered_ = false;   // 出现错误标志
+  std::vector<int> last_errors_;   // 缓存上一帧每个电机的错误码，只在值变化时才刷新对应 motor 的 QLabel，防止强制刷新UI拖慢帧率
+  static bool ui_window_initialized_; // PlotJuggler 在每次点击“启用插件”或刷新插件时，会重新调用 createPlugin() 构造新实例，导致 startUIWindow() 也被重复调用，从而弹出多个窗口,避免该问题
+  int log_mode_ = 0;                  // 日志记录模式 0: 仅错误记录，1: 全时记录
 };
