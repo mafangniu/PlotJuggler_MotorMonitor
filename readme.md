@@ -1,5 +1,5 @@
 # PlotJuggler_MotorMonitor
-![image](https://github.com/user-attachments/assets/3109272d-7af4-4a7a-af17-fdc2d4af447f)
+
 
 ## 1.功能说明
     用于监测电机数据（13个电机，每个包含速度/位置/电流/温度/Mos温度/错误类型ID等）通过plotjuggler显示
@@ -20,5 +20,4 @@
     （3）运行plotjuggler,Streaming选择 Data Streamer即可,需要可视化哪些量只需要将其拖到右边的窗口就行
     （4）错误日志保存在/tmp下，以motor_error_log_+时间戳命名
 
-![image](https://github.com/user-attachments/assets/20b7142d-c151-4b6f-ab62-a422530d5bf6)
 
